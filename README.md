@@ -1,1 +1,1 @@
-# BUFS-Community-Web-Scraping
+# BUFS Community Web Scraping
